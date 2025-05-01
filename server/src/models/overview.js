@@ -14,13 +14,7 @@ module.exports = (sequelize, DataTypes) => {
     }
   }
   Overview.init({
-    code: DataTypes.STRING,
-    area: DataTypes.STRING,
-    type: DataTypes.STRING,
-    target: DataTypes.STRING,
-    bonus: DataTypes.STRING,
-    created: DataTypes.DATE,
-    expire: DataTypes.DATE
+    overview: DataTypes.TEXT
   }, {
     sequelize,
     modelName: 'Overview',

@@ -8,26 +8,8 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.STRING
       },
-      code: {
-        type: Sequelize.STRING
-      },
-      area: {
-        type: Sequelize.STRING
-      },
-      type: {
-        type: Sequelize.STRING
-      },
-      target: {
+      overview: {
         type: Sequelize.TEXT
-      },
-      bonus: {
-        type: Sequelize.STRING
-      },
-      created: {
-        type: Sequelize.DATE
-      },
-      expire: {
-        type: Sequelize.DATE
       },
       createdAt: {
         allowNull: false,

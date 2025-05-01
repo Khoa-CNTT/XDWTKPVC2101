@@ -1,0 +1,5 @@
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("PT", "Phòng trọ", "Kênh thông tin Phòng trọ số 1 Việt Nam", "Có 71.366 tin đăng cho thuê", current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("NNC", "Nhà nguyên căn", "Cho Thuê Nhà Nguyên Căn, Giá Rẻ, Chính Chủ, Mới Nhất 2025", "Có 10.261 tin đăng cho thuê", current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CHCC", "Căn hộ chung cư", "Cho Thuê Căn Hộ Chung Cư, Giá Rẻ, View Đẹp, Mới Nhất 2025", "Có 26.006 tin đăng cho thuê", current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CHMN", "Căn hộ mini", "Cho Thuê Căn Hộ Mini + Chung Cư Mini Giá Rẻ, Mới Nhất 2025", "Có 3.600 tin đăng cho thuê", current_timestamp, current_timestamp);
+INSERT INTO categories (code, value, header, subheader, createdAt, updatedAt) VALUES ("CHDV", "Căn hộ dịch vụ", "Cho Thuê Căn Hộ Dịch Vụ, Giá Rẻ, Mới Nhất 2025", "Có 9.195 tin đăng cho thuê", current_timestamp, current_timestamp);
