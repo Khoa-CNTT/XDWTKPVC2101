@@ -6,10 +6,11 @@ import chothuecanhodichvu from '../../data/chothuecanhodichvu.json'
 import chothuecanhomini from '../../data/chothuecanhomini.json'
 import chothuephongtro from '../../data/chothuephongtro.json'
 import nhachothue from '../../data/nhachothue.json'
-// import generateCode from '../ultis/generateCode'
+import generateCode from '../ultis/generateCode'
+import { where } from 'sequelize'
 
 require('dotenv').config()
-const dataBody = chothuecanhodichvu.body
+const dataBody = chothuecanhomini.body
 
 const hashPassword = password => bcrypt.hashSync(password, bcrypt.genSaltSync(12))
 
@@ -17,6 +18,7 @@ export const insertService = () => new Promise(async (resolve, reject) => {
     try {
         for (const item of dataBody) {
             let postId = v4()
+            let labelCode = generateCode(item?.header?.star?.classType)
             let attributesId = v4()
             let userId = v4()
             let overviewId = v4()
@@ -26,9 +28,10 @@ export const insertService = () => new Promise(async (resolve, reject) => {
                 id: postId,
                 title: item?.header?.title,
                 star: item?.header?.star?.rateStar,
+                labelCode,
                 address: item?.header?.address,
                 attributesId,
-                categoryCode: 'CHDV',
+                categoryCode: 'CHMN',
                 description: JSON.stringify(item?.mainContent?.content),
                 userId,
                 overviewId,
@@ -46,6 +49,14 @@ export const insertService = () => new Promise(async (resolve, reject) => {
             await db.Image.create({
                 id: imagesId,
                 image: JSON.stringify(item?.images)
+            })
+
+            await db.Label.findOrCreate({
+                where: { code : labelCode },
+                defaults: {
+                    code: labelCode,
+                    value: item?.header?.star?.classType
+                }
             })
 
             await db.Overview.create({

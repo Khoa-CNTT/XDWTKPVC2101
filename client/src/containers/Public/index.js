@@ -8,3 +8,5 @@ export { default as RentalApartment } from './RentalApartment'
 export { default as RentalMiniApartment } from './RentalMiniApartment'
 export { default as RentalServicedApartment } from './RentalServicedApartment'
 export { default as Homepage } from './Homepage'
+export { default as Search } from './Search'
+

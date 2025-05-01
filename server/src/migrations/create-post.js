@@ -15,6 +15,9 @@ module.exports = {
         type: Sequelize.STRING,
         defaultValue: '0'
       },
+      labelCode: {
+        type: Sequelize.STRING
+      },
       address: {
         type: Sequelize.STRING
       },
