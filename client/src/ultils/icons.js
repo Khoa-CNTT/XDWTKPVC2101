@@ -5,6 +5,9 @@ import { MdAttachMoney } from "react-icons/md";
 import { RiCrop2Line } from "react-icons/ri";
 import { PiHouseLine } from "react-icons/pi";
 import { FiSearch } from "react-icons/fi";
+import { RxStarFilled } from "react-icons/rx";
+import { GoHeart, GoHeartFill } from "react-icons/go";
+import { BsBookmarkStarFill } from "react-icons/bs";
 
 const icons = {
     CiCirclePlus,
@@ -13,7 +16,11 @@ const icons = {
     MdAttachMoney,
     RiCrop2Line,
     PiHouseLine,
-    FiSearch
+    FiSearch,
+    RxStarFilled,
+    GoHeart,
+    GoHeartFill,
+    BsBookmarkStarFill
 }
 
 export default icons
