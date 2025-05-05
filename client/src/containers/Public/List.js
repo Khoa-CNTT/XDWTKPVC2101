@@ -1,9 +1,17 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Button, Item } from '../../components'
+import { getPosts, getPostsLimit } from '../../store/actions/post'
+import { useDispatch, useSelector } from 'react-redux'
 
-const List = () => {
+const List = ({ page }) => {
+    const dispatch = useDispatch()
+    const { posts } = useSelector(state => state.post)
+    useEffect(() => {
+    let offset = page ? +page - 1 : 0
+    dispatch(getPostsLimit(offset))
+    }, [page])
     return (
-        <div className='w-full p-2 bg-white shadow-md rounded-md'>
+        <div className='w-full p-2 bg-white shadow-md rounded-md px-6'>
             <div className='flex items-center justify-between my-3'>
                 <h4 className='text-xl font-semibold'>Danh sách tin đăng</h4>
                 <span>Cập nhật: 20:27 17/3/2025</span>
@@ -14,9 +22,21 @@ const List = () => {
                 <Button bgColor='bg-gray-200' text='Mới nhất' />
             </div>
             <div className='items'>
-                <Item />
-                {/* <Item />
-                <Item /> */}
+                {posts?.length > 0 && posts.map(item => {
+                    return (
+                        <Item 
+                            key={item?.id}
+                            address={item?.address}
+                            attributes={item?.attributes}
+                            description={JSON.parse(item?.description)}
+                            images={JSON.parse(item?.images.image)}
+                            star={+item?.star}
+                            title={item?.title}
+                            user={item?.user}
+                            id={item?.id}
+                        />
+                    )
+                })}
             </div>
         </div>
     )

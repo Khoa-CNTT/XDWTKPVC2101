@@ -1,5 +1,5 @@
 import { CiCirclePlus } from 'react-icons/ci'
-import { GrNext } from "react-icons/gr"
+import { GrNext,GrFormNextLink, GrFormPreviousLink } from "react-icons/gr"
 import { IoLocationOutline } from "react-icons/io5";
 import { MdAttachMoney } from "react-icons/md";
 import { RiCrop2Line } from "react-icons/ri";
@@ -20,7 +20,9 @@ const icons = {
     RxStarFilled,
     GoHeart,
     GoHeartFill,
-    BsBookmarkStarFill
+    BsBookmarkStarFill,
+    GrFormNextLink,
+    GrFormPreviousLink
 }
 
 export default icons

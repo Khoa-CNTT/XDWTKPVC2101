@@ -1,4 +1,3 @@
-import { data } from 'react-router-dom'
 import actionTypes from './actionTypes'
 import { apiRegister, apiLogin } from '../../services/auth'
 

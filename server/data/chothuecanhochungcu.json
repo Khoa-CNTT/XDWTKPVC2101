@@ -31,7 +31,7 @@
       "header": {
         "title": "Phòng đẹp ban công rộng, máy giặt riêng - P12 Tân Bình",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "Đường Nguyễn Tử Nha, Phường 12, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Nguyễn Tử Nha, Phường 12, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "5.8 triệu/tháng",
           "acreage": "25 m2",
@@ -99,7 +99,7 @@
       "header": {
         "title": "Cho Thuê Phòng đủ nội thất, Khu Sân Bay, P2 Tân Bình",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "4.8 triệu/tháng",
           "acreage": "25 m2",
@@ -170,7 +170,7 @@
       "header": {
         "title": "Cho Thuê Căn Hộ Dịch Vụ 35m2 Tại 23 Hát Giang, Phường 2, Tân Bình",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "Hát Giang, Phường 2, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "Hát Giang, Phường 2, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "35 m2",
@@ -263,7 +263,7 @@
       "header": {
         "title": "Căn hộ DV Khu Tanimex - 215 Tô Ký - Gần ĐH Huflit, FPT, PM Q.Trung, Chợ Ngã Ba Bầu - 4,9 -3,5tr",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "215 Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh - Xem bản đồ",
+        "address": "215 Đường Tô Ký, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh",
         "attributes": {
           "price": "3.5 triệu/tháng",
           "acreage": "20 m2",
@@ -326,7 +326,7 @@
       "header": {
         "title": "Cho Thuê Căn Hộ Dịch Vụ Ban Công, View Đẹp Tại 21 Bùi Văn Thêm, P9, Phú Nhuận",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "Bùi Văn Thêm, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - Xem bản đồ",
+        "address": "Bùi Văn Thêm, Phường 2, Quận Phú Nhuận, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "30 m2",
@@ -424,7 +424,7 @@
       "header": {
         "title": "Cho thuê căn hộ chung cư mini Lương Yên (gần Trần Khát Chân Lò Đúc)",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội - Xem bản đồ",
+        "address": "Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "43 m2",
@@ -499,7 +499,7 @@
       "header": {
         "title": "DUPLEX CAO - PHÒNG TRỌ , CĂN HỘ FULL NỘI THẤT - CV GIA ĐỊNH",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "819/4 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh - Xem bản đồ",
+        "address": "819/4 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
           "price": "5.8 triệu/tháng",
           "acreage": "18 m2",
@@ -621,7 +621,7 @@
       "header": {
         "title": "Căn hộ 1 phòng ngủ cho thuê, bếp riêng - 35m2, thang máy, phố Tây,gần nhà thờ Đức Bà, có chỗ đậu oto",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "18 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "18 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.9 triệu/tháng",
           "acreage": "35 m2",
@@ -757,7 +757,7 @@
       "header": {
         "title": "Chuỗi CHDV Q7 Giá Từ 5tr - 8tr Full nt, Gần Nguyễn Thị Thập, kênh Tẻ, Lê văn Lương Quận 7 sát Q4 Q8",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "40 Đường số 3, Phường Tân Kiểng, Quận 7, Hồ Chí Minh - Xem bản đồ",
+        "address": "40 Đường số 3, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",
         "attributes": {
           "price": "5 triệu/tháng",
           "acreage": "30 m2",
@@ -842,7 +842,7 @@
       "header": {
         "title": "CHO THUÊ CĂN HỘ CAO CẤP TẠI TRUNG TÂM QUẬN 1, GẦN BÙI VIỆN, CHỢ BẾN THÀNH",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Trần Hưng Đạo, Phường Bến Thành, Quận 1, Hồ Chí Minh - Xem bản đồ",
+        "address": "Trần Hưng Đạo, Phường Bến Thành, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "6 triệu/tháng",
           "acreage": "35 m2",
@@ -965,7 +965,7 @@
       "header": {
         "title": "Cho thuê phòng ban công, đầy đủ nội thất, thang máy, gym, hồ bơi, gần Ba Son Quận 1, giá 8.5 triệu",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "46 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "46 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "8.5 triệu/tháng",
           "acreage": "26 m2",
@@ -1038,7 +1038,7 @@
       "header": {
         "title": "Giảm giá tháng 4! Phòng ban công mới đẹp, 50m2, đầy đủ nội thất, gần đài truyền hình VTV Quận 1",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Lê Duẩn, Phường Đa Kao, Quận 1, Hồ Chí Minh - Xem bản đồ",
+        "address": "Lê Duẩn, Phường Đa Kao, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "9 triệu/tháng",
           "acreage": "50 m2",
@@ -1148,7 +1148,7 @@
       "header": {
         "title": "Căn hộ 30m2 Ban Công siêu thoáng,D5 Bình Thạnh",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Đường D5, Phường 25, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường D5, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "35 m2",
@@ -1241,7 +1241,7 @@
       "header": {
         "title": "Urban Home - Căn Hộ mini cao cấp - ngã tư Hàng Xanh, Bình Thạnh",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Đường Bạch Đằng, Phường 15, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Bạch Đằng, Phường 15, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "36 m2",
@@ -1318,7 +1318,7 @@
       "header": {
         "title": "Cho thuê căn hộ mini ở ngõ 203 Trường Chinh 7tr/tháng",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Số 24 Ngõ 203 Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội - Xem bản đồ",
+        "address": "Số 24 Ngõ 203 Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",
         "attributes": {
           "price": "7 triệu/tháng",
           "acreage": "45 m2",
@@ -1401,7 +1401,7 @@
       "header": {
         "title": "60m2 - Căn hộ dịch vụ full nội thất (thang máy)",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "51B/203 Đường Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội - Xem bản đồ",
+        "address": "51B/203 Đường Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",
         "attributes": {
           "price": "8.5 triệu/tháng",
           "acreage": "60 m2",
@@ -1503,7 +1503,7 @@
       "header": {
         "title": "Cho thuê phòng trọ- Quốc Lộ 22- Đối diện bên xe An sương - ngã tư an sương - Q.12 - TP. HCM",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "D16 Quốc Lộ 22, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh - Xem bản đồ",
+        "address": "D16 Quốc Lộ 22, Phường Trung Mỹ Tây, Quận 12, Hồ Chí Minh",
         "attributes": {
           "price": "3.8 triệu/tháng",
           "acreage": "25 m2",
@@ -1611,7 +1611,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Lạc Long Quân, Phường 10, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "Lạc Long Quân, Phường 10, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "5.5 triệu/tháng",
           "acreage": "35 m2",
@@ -1684,7 +1684,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Điện Biên Phủ, Phường 2, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "Điện Biên Phủ, Phường 2, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "5 triệu/tháng",
           "acreage": "30 m2",
@@ -1772,7 +1772,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "105 Tân Trang, Phường 9, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "105 Tân Trang, Phường 9, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "7.6 triệu/tháng",
           "acreage": "30 m2",

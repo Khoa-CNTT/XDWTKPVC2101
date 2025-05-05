@@ -1,25 +1,34 @@
 import React, { memo, useState } from 'react'
 import icons from '../ultils/icons'
+import { useNavigate, Link } from 'react-router-dom'
+import { formatVietnameseToString } from '../ultils/Common/formatVietnameseToString'
 
-const images = [
-    "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/05/15/34b73384-df05-4c31-bbeb-00c8c22d025e_1557916814.jpg",
-    "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/02/26/img-1520_1740529266.jpg",
-    "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/03/19/z5939630673642-1875682956718a77ef937c41e5a5d3aa_1742370758.jpg",
-    "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/06/img-0561_1680780296.jpg"
-]
+const indexs = [0,1,2,3]
+
 
 const {RxStarFilled, GoHeart, GoHeartFill, BsBookmarkStarFill} = icons
 
-const Item = () => {
+const Item = ({ images, user, title, star, description, attributes, address, id }) => {
     const [isHoverHeart,setIsHoverHeart] = useState(false)
+    const navigate = useNavigate()
+
+    const handleStar = (star) => {
+        let stars = []
+        for (let i = 1; i <= +star; i++) stars.push(<RxStarFilled className='star-item' color='#f7e92a' />)
+        return stars
+    }
     return (
-        <div className='w-full flex border-t border-orange-600 p-4'>
-            <div className='w-2/5 flex flex-wrap gap-[2px] items-center relative cursor-pointer'>
-                <img src={images[0]} alt="preview" className='w-[110px] h-[125px] object-cover' />
-                <img src={images[1]} alt="preview" className='w-[110px] h-[125px] object-cover' />
-                <img src={images[2]} alt="preview" className='w-[110px] h-[125px] object-cover' />
-                <img src={images[3]} alt="preview" className='w-[110px] h-[125px] object-cover' />
-                <span className='bg-overlay-70 text-white px-2 rounded-md absolute left-1 bottom-1'>4 ảnh</span>
+        <div className='w-full flex border-t border-orange-600 py-4'>
+            <Link 
+                to={`chi-tiet/${formatVietnameseToString(title)}/${id}`} 
+                className='w-2/5 flex flex-wrap gap-[2px] items-center relative cursor-pointer'
+            >
+                {images.length > 0 && images.filter((i, index) => indexs.some( i => i === index))?.map((i, index) => {
+                    return (
+                        <img key={index} src={i} alt="preview" className='w-[110px] h-[125px] object-cover' />
+                    )
+                })}
+                <span className='bg-overlay-70 text-white px-2 rounded-md absolute left-1 bottom-4'>{`${images.length} ảnh`}</span>
                 <span 
                 className='text-white absolute right-5 bottom-2'
                 onMouseEnter={() => setIsHoverHeart(true)}
@@ -27,40 +36,40 @@ const Item = () => {
                 >
                     {isHoverHeart ? <GoHeartFill size={24} color='#f03426' /> : <GoHeart size={24}/>}
                 </span>
-            </div>
+            </Link>
             <div className='w-3/5'>
                 <div className='flex justify-between gap-4 w-full'>
                     <div className='text-red-600 font-medium'>
-                        <RxStarFilled className='star-item' color='#f7e92a' />
-                        <RxStarFilled className='star-item' color='#f7e92a' />
-                        <RxStarFilled className='star-item' color='#f7e92a' />
-                        <RxStarFilled className='star-item' color='#f7e92a' />
-                        <RxStarFilled className='star-item' color='#f7e92a' />
-                    Ký túc xá quận 7 trọn gói 1tr gần Lotte Mart
+                        {handleStar(+star).length > 0 && handleStar(+star).map((star, number) => {
+                            return (
+                                <span key={number}>{star}</span>
+                            )
+                        })}
+                        {title}
                     </div>
                     <div className='w-[10%] flex justify-end'>
                         <BsBookmarkStarFill size={20} color='orange' />
                     </div>
                 </div>
-                <div className='my-2 flex items-center justify-between'>
-                    <span className='font-bold text-green-600'>2.3 triệu/tháng</span>
-                    <span>23 m²</span>
-                    <span>Quận 7, Hồ Chí Minh</span>
+                <div className='my-2 flex items-center justify-between gap-2 text-sm'>
+                    <span className='font-bold flex-3 text-green-600 whitespace-nowrap overflow-hidden text-ellipsis'>{attributes?.price}</span>
+                    <span className='flex-1'>{attributes?.acreage}</span>
+                    <span className='flex-3 whitespace-nowrap overflow-hidden text-ellipsis'>{`${address.split(',')[address.split(',').length - 2]}${address.split(',')[address.split(',').length - 1]}`}</span>
                 </div>
-                <p className='text-gray-500'>
-                Đến Homestay Hoàng Phúc - hệ thống Kytucxa Q7 rẻ nhất Sài Gòn với những căn phòng đẹp lung linh, đa dạng tiện nghi và bao trọn toàn bộ các chi…
+                <p className='text-gray-500 w-full h-[50px] text-ellipsis overflow-hidden text-base'>
+                    {description}
                 </p>
                 <div className='flex items-center my-5 justify-between'>
-                    <div className='flex items-center'>
+                    <div className='flex items-center text-xs'>
                         <img src="https://www.shutterstock.com/image-vector/vector-flat-illustration-grayscale-avatar-600nw-2281862025.jpg" alt="avatar" className='w-[30px] h-[30px] object-cover rounded-full' />
-                        <p>Nhi Nguyễn</p>
+                        <p>{user?.name}</p>
                     </div>
-                    <div className='flex items-center gap-1'>
+                    <div className='flex items-center gap-1 text-sm'>
                         <button
                         type='button'
                         className='bg-blue-700 text-white p-1 rounded-md'
                         >
-                            Gọi 0817823871
+                            {`Gọi ${user?.phone}`}
                         </button>
                         <button
                         type='button'

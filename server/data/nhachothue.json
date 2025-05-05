@@ -26,7 +26,7 @@
       "header": {
         "title": "Cho thuê nhà mặt bằng gần phố Bùi Viện, mở tiệm nail, spa, phun xăm, bán hàng online, văn phòng",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "100/16 Đường Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh - Xem bản đồ",
+        "address": "100/16 Đường Trần Hưng Đạo, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "7 triệu/tháng",
           "acreage": "35 m2",
@@ -129,7 +129,7 @@
       "header": {
         "title": "CHO THUÊ NHÀ MẶT TIỀN “HOT HIT” ĐƯỜNG KÊNH 2 CHIỀU - KINH DOANH ĐA NGÀNH NGHỀ!",
         "star": { "rateStar": "3", "classType": "TIN VIP 2" },
-        "address": "496/46/60 Dương Quảng Hàm, Phường 6, Quận Gò Vấp, Hồ Chí Minh - Xem bản đồ",
+        "address": "496/46/60 Dương Quảng Hàm, Phường 6, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
           "price": "20 triệu/tháng",
           "acreage": "105 m2",
@@ -230,7 +230,7 @@
       "header": {
         "title": "CHO THUÊ NHÀ NGUYÊN CĂN MỚI XÂY GẦN LÊ VĂN VIỆT, FULL NỘI THẤT CAO CẤP, HẺM XE HƠI TẬN CỬA.",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Hẻm 146 Đường Lã Xuân Oai, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh - Xem bản đồ",
+        "address": "Hẻm 146 Đường Lã Xuân Oai, Phường Tăng Nhơn Phú A, Quận 9, Hồ Chí Minh",
         "attributes": {
           "price": "14 triệu/tháng",
           "acreage": "65 m2",
@@ -342,7 +342,7 @@
       "header": {
         "title": "Cho thuê nguyên căn trệt lầu bc hẻm xe hơi khu chợ hoa hồ thị kỷ",
         "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "367/1 Đường Trần Bình Trọng, Phường 1, Quận 10, Hồ Chí Minh - Xem bản đồ",
+        "address": "367/1 Đường Trần Bình Trọng, Phường 1, Quận 10, Hồ Chí Minh",
         "attributes": {
           "price": "7.5 triệu/tháng",
           "acreage": "40 m2",
@@ -414,7 +414,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Nguyễn Thị Tư, Phường Phú Hữu, Quận 9, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Nguyễn Thị Tư, Phường Phú Hữu, Quận 9, Hồ Chí Minh",
         "attributes": {
           "price": "7.5 triệu/tháng",
           "acreage": "153 m2",
@@ -481,7 +481,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh - Xem bản đồ",
+        "address": "Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "6 triệu/tháng",
           "acreage": "30 m2",
@@ -572,7 +572,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường số 11, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường số 11, Phường Linh Xuân, Thủ Đức, Hồ Chí Minh",
         "attributes": {
           "price": "8 triệu/tháng",
           "acreage": "180 m2",
@@ -641,7 +641,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Thạnh Mỹ Lợi, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Thạnh Mỹ Lợi, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
         "attributes": {
           "price": "5.6 triệu/tháng",
           "acreage": "50 m2",
@@ -729,7 +729,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "233/29 Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "233/29 Đường Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "7 triệu/tháng",
           "acreage": "75 m2",
@@ -789,7 +789,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "17 Đường số 10, Phường Linh Đông, Thủ Đức, Hồ Chí Minh - Xem bản đồ",
+        "address": "17 Đường số 10, Phường Linh Đông, Thủ Đức, Hồ Chí Minh",
         "attributes": {
           "price": "9.5 triệu/tháng",
           "acreage": "18 m2",
@@ -862,7 +862,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "T1-152 Đường Hữu Nghị, Xã Phù Chẩn, Thị Xã Từ Sơn, Bắc Ninh - Xem bản đồ",
+        "address": "T1-152 Đường Hữu Nghị, Xã Phù Chẩn, Thị Xã Từ Sơn, Bắc Ninh",
         "attributes": {
           "price": "10 triệu/tháng",
           "acreage": "75 m2",
@@ -933,7 +933,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Bà Hom, Phường 13, Quận 6, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Bà Hom, Phường 13, Quận 6, Hồ Chí Minh",
         "attributes": {
           "price": "4.7 triệu/tháng",
           "acreage": "15 m2",
@@ -1004,7 +1004,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội - Xem bản đồ",
+        "address": "Đường Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",
         "attributes": {
           "price": "18 triệu/tháng",
           "acreage": "80 m2",
@@ -1072,7 +1072,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "27/1/9 Phố số 36, Phường Hiệp Bình Chánh, Quận Thủ Đức, Hồ Chí Minh - Xem bản đồ",
+        "address": "27/1/9 Phố số 36, Phường Hiệp Bình Chánh, Quận Thủ Đức, Hồ Chí Minh",
         "attributes": {
           "price": "5.5 triệu/tháng",
           "acreage": "36 m2",
@@ -1180,7 +1180,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Hẻm 290 Đường Nơ Trang Long, Phường 26, Quận Bình Thạnh, Hồ Chí Minh - Xem bản đồ",
+        "address": "Hẻm 290 Đường Nơ Trang Long, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "7.6 triệu/tháng",
           "acreage": "45 m2",
@@ -1252,7 +1252,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Hoa Lan, Phường 2, Quận Phú Nhuận, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Hoa Lan, Phường 2, Quận Phú Nhuận, Hồ Chí Minh",
         "attributes": {
           "price": "16 triệu/tháng",
           "acreage": "64 m2",
@@ -1335,7 +1335,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "KDC 13E Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh - Xem bản đồ",
+        "address": "KDC 13E Nguyễn Văn Linh, Xã Phong Phú, Huyện Bình Chánh, Hồ Chí Minh",
         "attributes": {
           "price": "17 triệu/tháng",
           "acreage": "100 m2",
@@ -1406,7 +1406,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Hùng Vương, Phường Phú Đông, Thành Phố Tuy Hòa, Phú Yên - Xem bản đồ",
+        "address": "Hùng Vương, Phường Phú Đông, Thành Phố Tuy Hòa, Phú Yên",
         "attributes": {
           "price": "4.5 triệu/tháng",
           "acreage": "75 m2",
@@ -1470,7 +1470,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "62/1A Đường Trương Công Định, Phường 14, Quận Tân Bình, Hồ Chí Minh - Xem bản đồ",
+        "address": "62/1A Đường Trương Công Định, Phường 14, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "16 triệu/tháng",
           "acreage": "112 m2",
@@ -1555,7 +1555,7 @@
           "rateStar": "",
           "classType": "Tin thường"
         },
-        "address": "Đường Nguyễn Văn Tạo, Xã Long Thới, Huyện Nhà Bè, Hồ Chí Minh - Xem bản đồ",
+        "address": "Đường Nguyễn Văn Tạo, Xã Long Thới, Huyện Nhà Bè, Hồ Chí Minh",
         "attributes": {
           "price": "9 triệu/tháng",
           "acreage": "97.5 m2",
