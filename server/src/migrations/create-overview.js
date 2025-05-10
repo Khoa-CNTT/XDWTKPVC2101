@@ -8,8 +8,26 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.STRING
       },
-      overview: {
-        type: Sequelize.TEXT
+      code: {
+        type: Sequelize.STRING
+      },
+      area: {
+        type: Sequelize.STRING
+      },
+      type: {
+        type: Sequelize.STRING
+      },
+      target: {
+        type: Sequelize.STRING
+      },
+      popularity: {
+        type: Sequelize.STRING
+      },
+      created: {
+        type: Sequelize.DATE
+      },
+      expired: {
+        type: Sequelize.DATE
       },
       createdAt: {
         allowNull: false,

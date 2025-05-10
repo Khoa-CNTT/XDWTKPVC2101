@@ -6,6 +6,8 @@ export { default as Province } from './Province'
 export { default as Item } from './Item'
 export { default as PageNumber } from './PageNumber'
 export { default as ItemSideBar } from './ItemSideBar'
-
-
-
+export { default as Intro } from './Intro'
+export { default as Contact } from './Contact'
+export { default as RelatedPost } from './RelatedPost'
+export { default as Sitem } from './Sitem'
+export { default as Modal } from './Modal'

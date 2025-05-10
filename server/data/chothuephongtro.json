@@ -1,7 +1,7 @@
 {
   "header": {
     "title": "Kênh thông tin Phòng trọ số 1 Việt Nam",
-    "description": "Có 71.366 tin đăng cho thuê"
+    "description": "Cho thuê phòng trọ - Kênh thông tin số 1 về phòng trọ giá rẻ, phòng trọ sinh viên, phòng trọ cao cấp mới nhất năm 2022. Tất cả nhà trọ cho thuê tốt nhất tại Việt Nam."
   },
   "body": [
     {
@@ -18,13 +18,13 @@
       ],
       "header": {
         "title": "Ký túc xá quận 7 trọn gói 1tr gần Lotte Mart",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận 7"},
         "address": "34 Phố số 36, Phường Tân Quy, Quận 7, Hồ Chí Minh",
         "attributes": {
           "price": "700.000 đồng/tháng",
           "acreage": "20 m2",
-          "oublished": "Cập nhật: 4 giờ trước",
-          "hashtag": "Mã tin: #294491"
+          "oublished": "4 giờ trước",
+          "hashtag": "294491"
         }
       },
       "mainContent": {
@@ -59,10 +59,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 294491",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 5, 10:38 03/04/2025",
-          "Ngày hết hạn: Thứ 7, 10:38 03/05/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -71,7 +94,7 @@
           {
             "name": "Hoàng Phúc",
             "phoneNumber": "0931313570",
-            "zalo": "https://zalo.me/0931313570"
+            "zalo": "0931313570"
           }
         ]
       }
@@ -86,13 +109,13 @@
       ],
       "header": {
         "title": "Cho thuê phòng trọ dạng chung cư mini máy lạnh Q.8 gần Đại lộ Đông Tây, Q.5, Q.6",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận 8"},
         "address": "Đường Hoàng Ngân, Phường 16, Quận 8, Hồ Chí Minh",
         "attributes": {
           "price": "1.9 triệu/tháng",
           "acreage": "18 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #20126"
+          "oublished": "1 ngày trước",
+          "hashtag": "20126"
         }
       },
       "mainContent": {
@@ -109,10 +132,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 20126",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 5, 07:57 10/04/2025",
-          "Ngày hết hạn: Thứ 5, 07:57 17/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -121,7 +167,7 @@
           {
             "name": "Chị Hồng",
             "phoneNumber": "0379747974",
-            "zalo": "https://zalo.me/0379747974"
+            "zalo": "0379747974"
           }
         ]
       }
@@ -136,13 +182,13 @@
       ],
       "header": {
         "title": "Phòng trọ núp hẻm Lê Văn Thịnh,giao với Nguyễn Duy Trinh Q.2",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận 2"},
         "address": "5/6/9 Lê Văn Thịnh, Phường Bình Trưng Đông, Quận 2, Hồ Chí Minh",
         "attributes": {
           "price": "3.5 triệu/tháng",
           "acreage": "18 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #675463"
+          "oublished": "1 ngày trước",
+          "hashtag": "675463"
         }
       },
       "mainContent": {
@@ -162,10 +208,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 675463",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 4, 21:52 09/04/2025",
-          "Ngày hết hạn: Thứ 7, 21:52 12/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -174,7 +243,7 @@
           {
             "name": "Eric",
             "phoneNumber": "0936451824",
-            "zalo": "https://zalo.me/0936451824"
+            "zalo": "0936451824"
           }
         ]
       }
@@ -200,13 +269,13 @@
       ],
       "header": {
         "title": "Chính chủ cho thuê phòng từ 1tr-4tr Chung cư Era Town Đức Khải , Quận 7",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận 1"},
         "address": "Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Hồ Chí Minh",
         "attributes": {
           "price": "1.6 triệu/tháng",
           "acreage": "8 m2",
-          "oublished": "Cập nhật: 2 ngày trước",
-          "hashtag": "Mã tin: #596546"
+          "oublished": "2 ngày trước",
+          "hashtag": "596546"
         }
       },
       "mainContent": {
@@ -221,10 +290,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 596546",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 4, 08:10 09/04/2025",
-          "Ngày hết hạn: Thứ 4, 08:10 16/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -233,7 +325,7 @@
           {
             "name": "Lê Tú",
             "phoneNumber": "0815777735",
-            "zalo": "https://zalo.me/0815777735"
+            "zalo": "0815777735"
           }
         ]
       }
@@ -253,13 +345,13 @@
       ],
       "header": {
         "title": "Phòng trọ gần chợ gò vấp nội thất đầy đủ",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận Gò Vấp"},
         "address": "206/20 Đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
           "price": "4 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #656938"
+          "oublished": "3 ngày trước",
+          "hashtag": "656938"
         }
       },
       "mainContent": {
@@ -283,10 +375,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 656938",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 3, 10:59 08/04/2025",
-          "Ngày hết hạn: Thứ 4, 10:59 23/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -295,7 +410,7 @@
           {
             "name": "Be Home",
             "phoneNumber": "0974188183",
-            "zalo": "https://zalo.me/0974188183"
+            "zalo": "0974188183"
           }
         ]
       }
@@ -319,13 +434,13 @@
       ],
       "header": {
         "title": "GẦN GA METRO, GTVT, NGOẠI THƯƠNG, HUTECH, HỒNG BÀNG, UEF, VietVision - TT Q.BÌNH THẠNH UNG VĂN KHIÊM",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận Bình Thạnh"},
         "address": "97/15 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "3 triệu/tháng",
           "acreage": "20 m2",
-          "oublished": "Cập nhật: 6 ngày trước",
-          "hashtag": "Mã tin: #649687"
+          "oublished": "6 ngày trước",
+          "hashtag": "649687"
         }
       },
       "mainContent": {
@@ -358,10 +473,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 649687",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 4, 17:12 02/04/2025",
-          "Ngày hết hạn: Thứ 7, 17:43 03/05/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -370,7 +508,7 @@
           {
             "name": "Nhà Trọ Ngõ Sen",
             "phoneNumber": "0909814679",
-            "zalo": "https://zalo.me/0909814679"
+            "zalo": "0909814679"
           }
         ]
       }
@@ -391,13 +529,13 @@
       ],
       "header": {
         "title": "Phòng trọ ngay Thành Thái, trung tâm Quận 10, đẹp, trang bị đầy đủ nội thất",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận 7"},
         "address": "43/3 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh",
         "attributes": {
           "price": "4.5 triệu/tháng",
           "acreage": "25 m2",
-          "oublished": "Cập nhật: 1 tuần trước",
-          "hashtag": "Mã tin: #612116"
+          "oublished": "1 tuần trước",
+          "hashtag": "612116"
         }
       },
       "mainContent": {
@@ -416,10 +554,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 612116",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 6, 09:30 04/04/2025",
-          "Ngày hết hạn: Chủ Nhật, 16:20 04/05/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -428,7 +589,7 @@
           {
             "name": "Việt 275 (*)",
             "phoneNumber": "0938297275",
-            "zalo": "https://zalo.me/0938297275"
+            "zalo": "0938297275"
           }
         ]
       }
@@ -451,13 +612,13 @@
       ],
       "header": {
         "title": "CHO THUÊ PHÒNG TRỌ MỚI CHÍNH CHỦ, GIẢM GIÁ, QUẬN TÂN PHÚ - GẦN BÊN TRƯỜNG ĐH CÔNG NGHỆ THỰC PHẨM",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận Tân Phú"},
         "address": "24 Đường Sơn Kỳ, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh",
         "attributes": {
           "price": "3 triệu/tháng",
           "acreage": "20 m2",
-          "oublished": "Cập nhật: 1 tuần trước",
-          "hashtag": "Mã tin: #135699"
+          "oublished": "1 tuần trước",
+          "hashtag": "135699"
         }
       },
       "mainContent": {
@@ -483,10 +644,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 135699",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 7, 10:20 29/03/2025",
-          "Ngày hết hạn: Thứ 2, 10:20 28/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -495,7 +679,7 @@
           {
             "name": "hieuthanh2006 (*)",
             "phoneNumber": "0918180057",
-            "zalo": "https://zalo.me/0918180057"
+            "zalo": "0918180057"
           }
         ]
       }
@@ -510,13 +694,13 @@
       ],
       "header": {
         "title": "Cho thuê phòng mới diện tích 32m2, giá 5.5tr/tháng nội thất cơ bản",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận Tân Phú"},
         "address": "Đường số 61, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
         "attributes": {
           "price": "5.5 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 2 tuần trước",
-          "hashtag": "Mã tin: #315940"
+          "oublished": "2 tuần trước",
+          "hashtag": "315940"
         }
       },
       "mainContent": {
@@ -538,10 +722,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 315940",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 4, 15:23 26/03/2025",
-          "Ngày hết hạn: Thứ 6, 15:23 25/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -550,7 +757,7 @@
           {
             "name": "Khánh",
             "phoneNumber": "0989997054",
-            "zalo": "https://zalo.me/0989997054"
+            "zalo": "0989997054"
           }
         ]
       }
@@ -578,13 +785,13 @@
       ],
       "header": {
         "title": "Cho thuê phòng trọ mới sơn sửa 12/2024 - Lương Thế Vinh, P. Tân Thới Hòa, Quận Tân Phú (Gần Đầm Sen)",
-        "star": { "rateStar": "5", "classType": "TIN VIP NỔI BẬT" },
+        "star": { "rateStar": "5", "classType": "Cho thuê phòng trọ Quận Tân Phú"},
         "address": "48/13 Đường Lương Thế Vinh, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh",
         "attributes": {
           "price": "1.8 triệu/tháng",
           "acreage": "20 m2",
-          "oublished": "Cập nhật: 3 tuần trước",
-          "hashtag": "Mã tin: #603145"
+          "oublished": "3 tuần trước",
+          "hashtag": "603145"
         }
       },
       "mainContent": {
@@ -607,10 +814,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 603145",
-          "Gói tin: Tin VIP nổi bật",
-          "Ngày đăng: Thứ 6, 09:00 21/03/2025",
-          "Ngày hết hạn: Chủ Nhật, 14:59 20/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -619,7 +849,7 @@
           {
             "name": "Cường Phạm",
             "phoneNumber": "0938864405",
-            "zalo": "https://zalo.me/0938864405"
+            "zalo": "0938864405"
           }
         ]
       }
@@ -634,13 +864,13 @@
       ],
       "header": {
         "title": "Cho thuê phòng trọ Hiệp bình chánh, thủ đức",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Thủ Đức"},
         "address": "75/5/4 Đường số 23, Phường Hiệp Bình Chánh, Thủ Đức, Hồ Chí Minh",
         "attributes": {
           "price": "4 triệu/tháng",
           "acreage": "25 m2",
-          "oublished": "Cập nhật: 3 giờ trước",
-          "hashtag": "Mã tin: #678963"
+          "oublished": "3 giờ trước",
+          "hashtag": "678963"
         }
       },
       "mainContent": {
@@ -660,10 +890,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678963",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 6, 09:11 11/04/2025",
-          "Ngày hết hạn: Thứ 2, 09:11 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -672,7 +925,7 @@
           {
             "name": "Chị Mai",
             "phoneNumber": "0917532863",
-            "zalo": "https://zalo.me/0917532863"
+            "zalo": "0917532863"
           }
         ]
       }
@@ -698,13 +951,13 @@
       ],
       "header": {
         "title": "KÝ TÚC XÁ CHO SINH VIÊN - KTX GIÁ RẺ QUẬN PHÚ NHUẬN - KÝ TÚC XÁ QUẬN 5 - KTX ĐẦY ĐỦ TIỆN NGHI",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "17/1A Đường Hồ Văn Huê, Phường 9, Quận Phú Nhuận, Hồ Chí Minh",
         "attributes": {
           "price": "1.5 triệu/tháng",
           "acreage": "100 m2",
-          "oublished": "Cập nhật: 20 giờ trước",
-          "hashtag": "Mã tin: #678986"
+          "oublished": "20 giờ trước",
+          "hashtag": "678986"
         }
       },
       "mainContent": {
@@ -729,10 +982,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678986",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 5, 16:47 10/04/2025",
-          "Ngày hết hạn: Thứ 5, 16:47 17/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -741,7 +1017,7 @@
           {
             "name": "Kiều Trinh",
             "phoneNumber": "0839683816",
-            "zalo": "https://zalo.me/0839683816"
+            "zalo": "0839683816"
           }
         ]
       }
@@ -756,23 +1032,23 @@
       ],
       "header": {
         "title": "Cho thuê phòng studio khép kín full nội thất giá rẻ không chung chủ (HÌNH THẬT 100%)",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
-        "address": "Phan Huy Ích, Phường 14, Quận Gò Vấp, Hồ Chí Minh",
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Hải Châu"},
+        "address": "Trưng Nữ Vương, Phường Hoà Thuận Tây, Quận Hải Châu, Đà Nẵng",
         "attributes": {
           "price": "4 triệu/tháng",
           "acreage": "25 m2",
-          "oublished": "Cập nhật: 22 giờ trước",
-          "hashtag": "Mã tin: #678584"
+          "oublished": "22 giờ trước",
+          "hashtag": "678584"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "Chính chủ cho thuê phòng studio rộng rãi vệ sinh khép kín tại đường Phan Huy Ích, Quận Gò Vấp",
+          "Chính chủ cho thuê phòng studio rộng rãi vệ sinh khép kín tại đường Trưng Nữ Vương, Quận Hải Châu",
           "Nội thất đầy đủ bao gồm máy lạnh, tủ lạnh, tủ quần áo, kệ bếp, máy giặt chung miễn phí",
           "Giờ giấc TỰ DO, không chung chủ, cửa khoá thông minh an toàn.",
           "Nhà có đầy đủ PCCC, camera an ninh 24/7",
-          "Vị trí tại hẻm lớn đường phan huy ích, khu dân cư an ninh, gần nhiều trường học, trung tam mua sắm emart ( 700m), bách hoá xanh, công viên...",
+          "Vị trí tại hẻm lớn đường Trưng Nữ Vương, khu dân cư an ninh, gần nhiều trường học, trung tam mua sắm emart ( 700m), bách hoá xanh, công viên...",
           "Ưu đãi khác: free xe, free wifi tốc độ cao, free máy giặt, free rác, dọn dẹp hành lang.",
           "Bảng giá dịch vụ: điện 3,8k/kw, dịch vụ 150k, nước 100k/ người",
           "Liên hệ qua Zalo sđt hiển thị trên app hoặc 0354879992 để được tư vấn thêm và dẫn đi xem phòng miễn phí ạ",
@@ -783,10 +1059,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678584",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 4, 18:46 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 18:46 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Đà Nẵng"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -795,7 +1094,7 @@
           {
             "name": "trần văn tâm",
             "phoneNumber": "0388958002",
-            "zalo": "https://zalo.me/0388958002"
+            "zalo": "0388958002"
           }
         ]
       }
@@ -808,13 +1107,13 @@
       ],
       "header": {
         "title": "Cho Thuê Phòng Trọ Có Gác Tại Đường Số 6, Phường Bình Thuận, Quận 7",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "14A Đường số 6, Phường Bình Thuận, Quận 7, Hồ Chí Minh",
         "attributes": {
           "price": "3.5 triệu/tháng",
           "acreage": "22 m2",
-          "oublished": "Cập nhật: 2 ngày trước",
-          "hashtag": "Mã tin: #678842"
+          "oublished": "2 ngày trước",
+          "hashtag": "678842"
         }
       },
       "mainContent": {
@@ -839,10 +1138,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678842",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 4, 11:30 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 11:30 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -851,7 +1173,7 @@
           {
             "name": "Na Na",
             "phoneNumber": "0989568990",
-            "zalo": "https://zalo.me/0989568990"
+            "zalo": "0989568990"
           }
         ]
       }
@@ -871,13 +1193,13 @@
       ],
       "header": {
         "title": "Phòng trọ Era Town Đức Khải Q7, nhiều mức giá từ 2tr5 đến 4tr . LH 0909448284 Hiền",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "Nguyễn Lương Bằng, Phường Phú Mỹ, Quận 7, Hồ Chí Minh",
         "attributes": {
           "price": "2.45 triệu/tháng",
           "acreage": "10 m2",
-          "oublished": "Cập nhật: 2 ngày trước",
-          "hashtag": "Mã tin: #678788"
+          "oublished": "2 ngày trước",
+          "hashtag": "678788"
         }
       },
       "mainContent": {
@@ -898,10 +1220,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678788",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 3, 15:14 08/04/2025",
-          "Ngày hết hạn: Thứ 3, 15:14 15/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -910,7 +1255,7 @@
           {
             "name": "NGUYỄN HIỀN",
             "phoneNumber": "0909448284",
-            "zalo": "https://zalo.me/0909448284"
+            "zalo": "0909448284"
           }
         ]
       }
@@ -924,13 +1269,13 @@
       ],
       "header": {
         "title": "KTX Tân Bình gần Học Viện Hàng Không bao điện nước chỉ 1tr5",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "13/12 Quách Văn Tuấn, Phường 12, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "1.5 triệu/tháng",
           "acreage": "12 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #615892"
+          "oublished": "3 ngày trước",
+          "hashtag": "615892"
         }
       },
       "mainContent": {
@@ -976,10 +1321,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 615892",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 3, 11:01 08/04/2025",
-          "Ngày hết hạn: Thứ 4, 11:01 23/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -988,7 +1356,7 @@
           {
             "name": "Be Home",
             "phoneNumber": "0974188183",
-            "zalo": "https://zalo.me/0974188183"
+            "zalo": "0974188183"
           }
         ]
       }
@@ -1011,13 +1379,13 @@
       ],
       "header": {
         "title": "KTX Đại Học Công Nghiệp 4 Gò Vấp free điện nước chỉ 1tr3",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "60 Đường Huỳnh Khương An, Phường 5, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
           "price": "1.299 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #595846"
+          "oublished": "3 ngày trước",
+          "hashtag": "595846"
         }
       },
       "mainContent": {
@@ -1045,10 +1413,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 595846",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 3, 11:00 08/04/2025",
-          "Ngày hết hạn: Thứ 4, 11:00 23/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1057,7 +1448,7 @@
           {
             "name": "Be Home",
             "phoneNumber": "0974188183",
-            "zalo": "https://zalo.me/0974188183"
+            "zalo": "0974188183"
           }
         ]
       }
@@ -1073,13 +1464,13 @@
       ],
       "header": {
         "title": "KHAI TRƯƠNG NHÀ TRỌ KÍ TÚC XÁ CALI 2 – GIÁ CHỈ 1 TRIỆU / NGƯỜI / THÁNG",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận 11"},
         "address": "160/18 Đường Đội Cung, Phường 10, Quận 11, Hồ Chí Minh",
         "attributes": {
           "price": "1 triệu/tháng",
           "acreage": "150 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #677276"
+          "oublished": "3 ngày trước",
+          "hashtag": "677276"
         }
       },
       "mainContent": {
@@ -1105,10 +1496,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 677276",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 4, 19:29 19/03/2025",
-          "Ngày hết hạn: Thứ 6, 19:29 18/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1117,7 +1531,7 @@
           {
             "name": "Nguyễn Phú Gia",
             "phoneNumber": "0913521488",
-            "zalo": "https://zalo.me/0913521488"
+            "zalo": "0913521488"
           }
         ]
       }
@@ -1135,13 +1549,13 @@
       ],
       "header": {
         "title": "CHÍNH CHỦ CẦN CHO THUÊ PHÒNG TRỌ RỘNG RÃI, 20M2, THOÁNG MÁT, SẠCH SẼ",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận 3"},
         "address": "205/59A Đường Trần Văn Đang, Phường 11, Quận 3, Hồ Chí Minh",
         "attributes": {
           "price": "3.5 triệu/tháng",
           "acreage": "20 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #312468"
+          "oublished": "3 ngày trước",
+          "hashtag": "312468"
         }
       },
       "mainContent": {
@@ -1162,10 +1576,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 312468",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 3, 09:58 08/04/2025",
-          "Ngày hết hạn: Thứ 3, 09:58 15/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1174,7 +1611,7 @@
           {
             "name": "NGUYEN HUU NGHIA",
             "phoneNumber": "0834567059",
-            "zalo": "https://zalo.me/0834567059"
+            "zalo": "0834567059"
           }
         ]
       }
@@ -1195,13 +1632,13 @@
       ],
       "header": {
         "title": "Cho Thuê Phòng Trọ Phan Chu Trinh, Quận Bình Thạnh",
-        "star": { "rateStar": "4", "classType": "TIN VIP 1" },
+        "star": { "rateStar": "4", "classType": "Cho thuê phòng trọ Quận Phú Nhuận"},
         "address": "58/41 Đường Phan Chu Trinh, Phường 24, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "3 triệu/tháng",
           "acreage": "14 m2",
-          "oublished": "Cập nhật: 3 ngày trước",
-          "hashtag": "Mã tin: #644137"
+          "oublished": "3 ngày trước",
+          "hashtag": "644137"
         }
       },
       "mainContent": {
@@ -1223,10 +1660,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 644137",
-          "Gói tin: Tin VIP 1",
-          "Ngày đăng: Thứ 2, 13:48 07/04/2025",
-          "Ngày hết hạn: Thứ 2, 13:48 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#294491"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê phòng trọ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê phòng trọ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nam"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 6, 12:12 06/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 5, 12:12 05/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1235,7 +1695,7 @@
           {
             "name": "Thanh thuỷ",
             "phoneNumber": "0379544450",
-            "zalo": "https://zalo.me/0379544450"
+            "zalo": "0379544450"
           }
         ]
       }

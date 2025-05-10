@@ -11,16 +11,12 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      Area.hasMany(models.Post, { foreignKey: 'userId', as: 'user'})
     }
   }
   Area.init({
+    order: DataTypes.INTEGER,
     code: DataTypes.STRING,
-    value: DataTypes.STRING,
-    phone: DataTypes.STRING,
-    zalo: DataTypes.STRING,
-    zalo: DataTypes.STRING,
-    avatar: DataTypes.BLOB
+    value: DataTypes.STRING
   }, {
     sequelize,
     modelName: 'Area',

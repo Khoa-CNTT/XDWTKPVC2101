@@ -1,37 +1,25 @@
 {
   "header": {
     "title": "Cho Thuê Căn Hộ Dịch Vụ, Giá Rẻ, Mới Nhất 2025",
-    "description": "Có 9.195 tin đăng cho thuê"
+    "description": "Cho thuê căn hộ dịch vụ - Kênh đăng tin cho thuê căn hộ số 1: giá rẻ, chính chủ, đầy tiện nghi, Cho thuê chung cư với nhiều mức giá, diện tích cho thuê khác nhau."
   },
   "body": [
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Cho Thuê Phòng đủ nội thất, Khu Sân Bay, P2 Tân Bình",
-        "star": { "rateStar": "3", "classType": "TIN VIP 2" },
+        "star": { "rateStar": "3", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "4.8 triệu/tháng",
           "acreage": "25 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #678887"
+          "oublished": "1 ngày trước",
+          "hashtag": "678887"
         }
       },
       "mainContent": {
@@ -58,10 +46,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678887",
-          "Gói tin: Tin VIP 2",
-          "Ngày đăng: Thứ 4, 16:12 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 16:12 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -70,39 +81,27 @@
           {
             "name": "Na Na",
             "phoneNumber": "0989568990",
-            "zalo": "https://zalo.me/0989568990"
+            "zalo": "0989568990"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6486835359728-469a34c531fe0460576bd0f3ea8d4fc6_1744181066.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Cho Thuê Căn Hộ Dịch Vụ 35m2 Tại 23 Hát Giang, Phường 2, Tân Bình",
-        "star": { "rateStar": "3", "classType": "TIN VIP 2" },
+        "star": { "rateStar": "3", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "Hát Giang, Phường 2, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 2 ngày trước",
-          "hashtag": "Mã tin: #678861"
+          "oublished": "2 ngày trước",
+          "hashtag": "678861"
         }
       },
       "mainContent": {
@@ -127,10 +126,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678861",
-          "Gói tin: Tin VIP 2",
-          "Ngày đăng: Thứ 4, 13:44 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 13:44 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -139,39 +161,27 @@
           {
             "name": "Na Na",
             "phoneNumber": "0989568990",
-            "zalo": "https://zalo.me/0989568990"
+            "zalo": "0989568990"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/08/z6481771177619-caee64f4a57c0a4b721ac517a59a675c_1744103792.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Cho Thuê Căn Hộ Dịch Vụ Ban Công, View Đẹp Tại 21 Bùi Văn Thêm, P9, Phú Nhuận",
-        "star": { "rateStar": "3", "classType": "TIN VIP 2" },
+        "star": { "rateStar": "3", "classType": "Cho thuê căn hộ dịch vụ Quận Phú Nhuận"},
         "address": "Bùi Văn Thêm, Phường 2, Quận Phú Nhuận, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 2 ngày trước",
-          "hashtag": "Mã tin: #678795"
+          "oublished": "2 ngày trước",
+          "hashtag": "678795"
         }
       },
       "mainContent": {
@@ -197,10 +207,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678795",
-          "Gói tin: Tin VIP 2",
-          "Ngày đăng: Thứ 3, 16:17 08/04/2025",
-          "Ngày hết hạn: Thứ 6, 16:17 18/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -209,55 +242,27 @@
           {
             "name": "Na Na",
             "phoneNumber": "0989568990",
-            "zalo": "https://zalo.me/0989568990"
+            "zalo": "0989568990"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/11/z6473242092310-84233d52984f1f2060df6f5c93ec0ff5_1744353360.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "DUPLEX CAO - PHÒNG TRỌ , CĂN HỘ FULL NỘI THẤT - CV GIA ĐỊNH",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "819/4 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
           "price": "5.8 triệu/tháng",
           "acreage": "18 m2",
-          "oublished": "Cập nhật: 11 phút trước",
-          "hashtag": "Mã tin: #679051"
+          "oublished": "11 phút trước",
+          "hashtag": "679051"
         }
       },
       "mainContent": {
@@ -291,10 +296,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 679051",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 6, 13:37 11/04/2025",
-          "Ngày hết hạn: Thứ 2, 13:37 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -303,83 +331,27 @@
           {
             "name": "Quân Nguyễn",
             "phoneNumber": "0374910996",
-            "zalo": "https://zalo.me/0374910996"
+            "zalo": "0374910996"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/10/z6490308943737-4609f81edc499dae59f16c99dbf3d5f4_1744299427.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn hộ 1 phòng ngủ cho thuê, bếp riêng - 35m2, thang máy, phố Tây,gần nhà thờ Đức Bà, có chỗ đậu oto",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Bình Thạnh"},
         "address": "18 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.9 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 15 giờ trước",
-          "hashtag": "Mã tin: #679011"
+          "oublished": "15 giờ trước",
+          "hashtag": "679011"
         }
       },
       "mainContent": {
@@ -411,10 +383,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 679011",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 5, 22:38 10/04/2025",
-          "Ngày hết hạn: Chủ Nhật, 22:38 13/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -423,59 +418,27 @@
           {
             "name": "Homies Home",
             "phoneNumber": "0796603657",
-            "zalo": "https://zalo.me/0796603657"
+            "zalo": "0796603657"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/10/img-1859_1744283565.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "CHO THUÊ CĂN HỘ CAO CẤP TẠI TRUNG TÂM QUẬN 1, GẦN BÙI VIỆN, CHỢ BẾN THÀNH",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "Trần Hưng Đạo, Phường Bến Thành, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "6 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 19 giờ trước",
-          "hashtag": "Mã tin: #678997"
+          "oublished": "19 giờ trước",
+          "hashtag": "678997"
         }
       },
       "mainContent": {
@@ -506,10 +469,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678997",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 5, 18:13 10/04/2025",
-          "Ngày hết hạn: Chủ Nhật, 18:13 13/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -518,87 +504,27 @@
           {
             "name": "Nguyễn Ngọc Mai Phương",
             "phoneNumber": "0774504594",
-            "zalo": "https://zalo.me/0774504594"
+            "zalo": "0774504594"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/kun-kin-apartment-4-da-nen-_1744183604.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Cho thuê phòng ban công, đầy đủ nội thất, thang máy, gym, hồ bơi, gần Ba Son Quận 1, giá 8.5 triệu",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "46 Đường Nguyễn Cửu Vân, Phường 17, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "8.5 triệu/tháng",
           "acreage": "26 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #678869"
+          "oublished": "1 ngày trước",
+          "hashtag": "678869"
         }
       },
       "mainContent": {
@@ -623,10 +549,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678869",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 4, 14:27 09/04/2025",
-          "Ngày hết hạn: Thứ 7, 14:27 12/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -635,43 +584,27 @@
           {
             "name": "Homies Home",
             "phoneNumber": "0796603657",
-            "zalo": "https://zalo.me/0796603657"
+            "zalo": "0796603657"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/422cba9564c5d79b8ed434_1744184753.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Giảm giá tháng 4! Phòng ban công mới đẹp, 50m2, đầy đủ nội thất, gần đài truyền hình VTV Quận 1",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "Lê Duẩn, Phường Đa Kao, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "9 triệu/tháng",
           "acreage": "50 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #678873"
+          "oublished": "1 ngày trước",
+          "hashtag": "678873"
         }
       },
       "mainContent": {
@@ -705,10 +638,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678873",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 4, 14:51 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 14:51 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -717,77 +673,33 @@
           {
             "name": "Homies Home",
             "phoneNumber": "0796603657",
-            "zalo": "https://zalo.me/0796603657"
+            "zalo": "0796603657"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/03/28/85b1a937-5347-499f-92a8-92ffd5078791_1743166951.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
-        "title": "Căn hộ 30m2 Ban Công siêu thoáng,D5 Bình Thạnh",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
-        "address": "Đường D5, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
+        "title": "Căn hộ 30m2 Ban Công siêu thoáng,Cầu Giấy",
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
+        "address": "Đường D5, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #677902"
+          "oublished": "1 ngày trước",
+          "hashtag": "677902"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "Vị trí: D5, Bình Thạnh",
+          "Vị trí: D5, Cầu Giấy",
           "Toà nhà thang máy",
           "Diện tích 30m2",
           "Giờ giấc tự do không chung chủ",
@@ -798,10 +710,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 677902",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 5, 11:16 10/04/2025",
-          "Ngày hết hạn: Chủ Nhật, 11:16 13/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hà Nội"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -810,71 +745,27 @@
           {
             "name": "Ngô Tấn Lâm",
             "phoneNumber": "0964303575",
-            "zalo": "https://zalo.me/0964303575"
+            "zalo": "0964303575"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2024/09/11/1_1726039646.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Urban Home - Căn Hộ mini cao cấp - ngã tư Hàng Xanh, Bình Thạnh",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "Đường Bạch Đằng, Phường 15, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "36 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #664191"
+          "oublished": "1 ngày trước",
+          "hashtag": "664191"
         }
       },
       "mainContent": {
@@ -891,10 +782,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 664191",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 3, 07:12 08/04/2025",
-          "Ngày hết hạn: Chủ Nhật, 07:12 13/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -903,55 +817,27 @@
           {
             "name": "THANH VU",
             "phoneNumber": "0365459999",
-            "zalo": "https://zalo.me/0365459999"
+            "zalo": "0365459999"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/zz6475966671675-8868c1bab1622c96c82842efc9a8d973_1744205280.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "60m2 - Căn hộ dịch vụ full nội thất (thang máy)",
-        "star": { "rateStar": "2", "classType": "TIN VIP 3" },
+        "star": { "rateStar": "2", "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"},
         "address": "51B/203 Đường Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",
         "attributes": {
           "price": "8.5 triệu/tháng",
           "acreage": "60 m2",
-          "oublished": "Cập nhật: 1 ngày trước",
-          "hashtag": "Mã tin: #678904"
+          "oublished": "1 ngày trước",
+          "hashtag": "678904"
         }
       },
       "mainContent": {
@@ -977,10 +863,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678904",
-          "Gói tin: Tin VIP 3",
-          "Ngày đăng: Thứ 4, 20:33 09/04/2025",
-          "Ngày hết hạn: Thứ 4, 20:33 16/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -989,50 +898,30 @@
           {
             "name": "Trịnh Anh Tuấn",
             "phoneNumber": "0989985259",
-            "zalo": "https://zalo.me/0989985259"
+            "zalo": "0989985259"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/11/img-9347_1744353429.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn Hộ Duplex Hẻm 57/ Điện Biên Phủ, Sát Đại Học Hồng Bàng, UEF, Vòng Xoay Điện Biên Phủ Quận 1",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Điện Biên Phủ, Phường 2, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "5 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 10 phút trước",
-          "hashtag": "Mã tin: #679052"
+          "oublished": "10 phút trước",
+          "hashtag": "679052"
         }
       },
       "mainContent": {
@@ -1053,10 +942,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 679052",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 6, 13:37 11/04/2025",
-          "Ngày hết hạn: Thứ 4, 13:37 16/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1065,62 +977,30 @@
           {
             "name": "Phạm Trung Thành",
             "phoneNumber": "0965534820",
-            "zalo": "https://zalo.me/0965534820"
+            "zalo": "0965534820"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/03/26/img-3512_1742998524.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "STUDIO BAN CÔNG THOÁNG MÁT GIÁ HẠT DẺ CÓ GIẶT RIÊNG KHU VỰC TÂN BÌNH",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "105 Tân Trang, Phường 9, Quận Tân Bình, Hồ Chí Minh",
         "attributes": {
           "price": "7.6 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 16 phút trước",
-          "hashtag": "Mã tin: #677835"
+          "oublished": "16 phút trước",
+          "hashtag": "677835"
         }
       },
       "mainContent": {
@@ -1134,10 +1014,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 677835",
-          "Gói tin: Tin miễn phí",
-          "Ngày đăng: Thứ 4, 21:16 26/03/2025",
-          "Ngày hết hạn: Thứ 3, 21:16 24/06/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1146,55 +1049,30 @@
           {
             "name": "Nguyễn Quỳnh Như",
             "phoneNumber": "0342231258",
-            "zalo": "https://zalo.me/0342231258"
+            "zalo": "0342231258"
           }
         ]
       }
     },
     {
       "images": [
-        { "img": null, "vid": "https://static123.com/watch?v=7270182" },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn Hộ Ban Công Full Nội Thất Gần Mai chí Thọ Quận 2",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Thân Văn Nhiếp, Phường An Phú, Quận 2, Hồ Chí Minh",
         "attributes": {
           "price": "5.5 triệu/tháng",
           "acreage": "40 m2",
-          "oublished": "Cập nhật: 1 giờ trước",
-          "hashtag": "Mã tin: #679008"
+          "oublished": "1 giờ trước",
+          "hashtag": "679008"
         }
       },
       "mainContent": {
@@ -1213,10 +1091,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 679008",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 5, 21:34 10/04/2025",
-          "Ngày hết hạn: Thứ 5, 21:34 17/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1225,82 +1126,30 @@
           {
             "name": "Chỉnh Nguyễn",
             "phoneNumber": "0916307716",
-            "zalo": "https://zalo.me/0916307716"
+            "zalo": "0916307716"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/03/19/z5739850666661-5ee9a999385990764bcffb2644356d9f_1742389620.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn hộ Duplex Cao Cấp, Ban công, Cửa sổ, Thang máy. Hẻm oto - ngay Cầu Lê Văn Sỹ, Trần Quang Diệu Q3",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Đường Hoàng Sa, Phường 13, Quận 3, Hồ Chí Minh",
         "attributes": {
           "price": "7 triệu/tháng",
           "acreage": "45 m2",
-          "oublished": "Cập nhật: 1 giờ trước",
-          "hashtag": "Mã tin: #677279"
+          "oublished": "1 giờ trước",
+          "hashtag": "677279"
         }
       },
       "mainContent": {
@@ -1319,10 +1168,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 677279",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 6, 12:06 11/04/2025",
-          "Ngày hết hạn: Thứ 6, 12:06 18/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1331,82 +1203,30 @@
           {
             "name": "DV House Sài Hòn",
             "phoneNumber": "0903370495",
-            "zalo": "https://zalo.me/0903370495"
+            "zalo": "0903370495"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/01/29cda44dfcbf4ce115ae8_1743492806.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn hộ fullNT cao cấp mặt tiền - thang máy Võ Trường Toản P2 Bình Thạnh gần chợ Bà Chiểu giáp Quận 1",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Võ Trường Toản, Phường 2, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "10 triệu/tháng",
           "acreage": "45 m2",
-          "oublished": "Cập nhật: 2 giờ trước",
-          "hashtag": "Mã tin: #678277"
+          "oublished": "2 giờ trước",
+          "hashtag": "678277"
         }
       },
       "mainContent": {
@@ -1422,10 +1242,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678277",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 5, 17:43 10/04/2025",
-          "Ngày hết hạn: Thứ 5, 17:43 17/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1434,66 +1277,30 @@
           {
             "name": "Việt Nguyễn",
             "phoneNumber": "0985089831",
-            "zalo": "https://zalo.me/0985089831"
+            "zalo": "0985089831"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/08/img-1744021855250-1744085573994_1744086149.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "CHDV 1PN full nội thất Lê Thánh Tôn gần cầu BASON, Vincom Đồng Khởi, khu phố Nhật Bến Nghé Quận 1",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "8.8 triệu/tháng",
           "acreage": "40 m2",
-          "oublished": "Cập nhật: 2 giờ trước",
-          "hashtag": "Mã tin: #678772"
+          "oublished": "2 giờ trước",
+          "hashtag": "678772"
         }
       },
       "mainContent": {
@@ -1509,10 +1316,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 678772",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 3, 11:22 08/04/2025",
-          "Ngày hết hạn: Thứ 3, 11:22 15/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1521,62 +1351,30 @@
           {
             "name": "Việt Nguyễn",
             "phoneNumber": "0985089831",
-            "zalo": "https://zalo.me/0985089831"
+            "zalo": "0985089831"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/01/h2-1_1743486239.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Studio chữa lành ! cửa sổ to, bếp tách PN, có sân vườn 100m2, B.T !",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "482/10/36 Nơ Trang Long, Phường 13, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
           "price": "6.2 triệu/tháng",
           "acreage": "35 m2",
-          "oublished": "Cập nhật: 2 giờ trước",
-          "hashtag": "Mã tin: #616292"
+          "oublished": "2 giờ trước",
+          "hashtag": "616292"
         }
       },
       "mainContent": {
@@ -1597,10 +1395,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 616292",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 4, 10:37 09/04/2025",
-          "Ngày hết hạn: Thứ 4, 10:37 16/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1609,66 +1430,30 @@
           {
             "name": "Hệ Thống Phòng Thuê SG",
             "phoneNumber": "0934132213",
-            "zalo": "https://zalo.me/0934132213"
+            "zalo": "0934132213"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/03/11/z6395699461477-140b05193b294afdded023a869d17782_1741678613.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "CHDV FULL NT Ngay Công Viên 23 Tháng 9_Chợ Bến Thành_Trường ĐH Hoa Sen Q1",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "Lê Lai, Phường Bến Thành, Quận 1, Hồ Chí Minh",
         "attributes": {
           "price": "6.5 triệu/tháng",
           "acreage": "25 m2",
-          "oublished": "Cập nhật: 3 giờ trước",
-          "hashtag": "Mã tin: #676536"
+          "oublished": "3 giờ trước",
+          "hashtag": "676536"
         }
       },
       "mainContent": {
@@ -1691,10 +1476,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 676536",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 6, 10:07 11/04/2025",
-          "Ngày hết hạn: Thứ 4, 10:07 16/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1703,50 +1511,30 @@
           {
             "name": "Hà vũ an",
             "phoneNumber": "0377534777",
-            "zalo": "https://zalo.me/0377534777"
+            "zalo": "0377534777"
           }
         ]
       }
     },
     {
       "images": [
-        {
-          "img": "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z1975986589284-36bd5f3c2a00af962229a035e50aea5e_1744182987.jpg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        },
-        {
-          "img": "https://phongtro123.com/images/thumb_preload.svg",
-          "vid": null
-        }
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2025/04/09/z6481103874379-45953ea8b37b8e63a721b95cbd0896e7_1744189916.jpg"
       ],
       "header": {
         "title": "Căn Hộ STUDIO Full NT ngay Tô Hiến Thành, Quận 10",
         "star": {
           "rateStar": "",
-          "classType": "Tin thường"
+          "classType": "Cho thuê căn hộ dịch vụ Quận Tân Bình"
         },
         "address": "525 Tô Hiến Thành, Phường 14, Quận 10, Hồ Chí Minh",
         "attributes": {
           "price": "6.2 triệu/tháng",
           "acreage": "30 m2",
-          "oublished": "Cập nhật: 4 giờ trước",
-          "hashtag": "Mã tin: #677103"
+          "oublished": "4 giờ trước",
+          "hashtag": "677103"
         }
       },
       "mainContent": {
@@ -1766,10 +1554,33 @@
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          "Mã tin: 677103",
-          "Gói tin: Tin thường",
-          "Ngày đăng: Thứ 4, 10:02 09/04/2025",
-          "Ngày hết hạn: Thứ 2, 10:02 14/04/2025"
+          {"name": "Mã tin:",
+            "content": "#678887"
+          },
+          {
+            "name": "Khu vực:",
+            "content": "Cho thuê căn hộ dịch vụ Hồ Chí Minh"
+          },
+          {
+            "name": "Loại tin rao:",
+            "content": "Cho thuê căn hộ dịch vụ"
+          },
+          {
+            "name": "Đối tượng thuê:",
+            "content": "Nữ"
+          },
+          {
+            "name": "Gói tin:",
+            "content": "Tin VIP nổi bật"
+          },
+          {
+            "name": "Ngày đăng:",
+            "content": "Thứ 4, 10:12 04/05/2025"
+          },
+          {
+            "name": "Ngày hết hạn:",
+            "content": "Thứ 3, 10:12 03/06/2025"
+          }
         ]
       },
       "contact": {
@@ -1778,7 +1589,7 @@
           {
             "name": "Nguyễn An Nhiên",
             "phoneNumber": "0948243243",
-            "zalo": "https://zalo.me/0948243243"
+            "zalo": "0948243243"
           }
         ]
       }
