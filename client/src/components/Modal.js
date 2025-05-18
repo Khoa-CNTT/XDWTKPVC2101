@@ -5,18 +5,14 @@ import { getCodes, getCodesArea } from '../ultils/Common/getCodes'
 
 const {GrFormPreviousLink} = icons
 
-const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax }) => {
+const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax, defaultText }) => {
 
-    const [persent1,setPersent1] = useState(() => {
-        if (name === 'price') return arrMinMax?.priceArr?.[0] ?? 0
-        if (name === 'area') return arrMinMax?.areaArr?.[0] ?? 0
-        return 0
-    })
-    const [persent2,setPersent2] = useState(() => {
-        if (name === 'price') return arrMinMax?.priceArr?.[1] ?? 100
-        if (name === 'area') return arrMinMax?.areaArr?.[1] ?? 100
-        return 100
-    })
+    const [persent1,setPersent1] = useState(name === 'price' && arrMinMax?.priceArr 
+        ? arrMinMax?.priceArr[0] 
+        : name === 'area' && arrMinMax?.areaArr ? arrMinMax?.areaArr[0] : 0)
+    const [persent2,setPersent2] = useState(name === 'price' && arrMinMax?.priceArr 
+        ? arrMinMax?.priceArr[1] 
+        : name === 'area' && arrMinMax?.areaArr ? arrMinMax?.areaArr[1] : 100)
     const [activeEl,setActiveEl] = useState('')
 
     useEffect(() => {
@@ -78,14 +74,19 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
         }
 
         const handleBeforeSubmit = (e) => {
-            const gaps = name === 'price' 
-            ? getCodes([convert100toTarget(persent1), convert100toTarget(persent2)], content)
-            : name === 'area' ? getCodesArea([convert100toTarget(persent1), convert100toTarget(persent2)], content): []
+            let min = persent1 <= persent2 ? persent1 : persent2
+            let max = persent1 <= persent2 ? persent2 : persent1
+            let arrMinMax = (persent1 === persent2 && persent1 === 100) ? [convert100toTarget(min), 99999999999999] : [convert100toTarget(min), convert100toTarget(max)]
+            // const gaps = name === 'price' 
+            //     ? getCodes(arrMinMax, content)
+            //     : name === 'area' ? getCodesArea(arrMinMax, content): []
             handleSubmit(e, {
-                [`${name}Code`]: gaps?.map(item => item.code),
-                [name]: `Từ ${convert100toTarget(persent1)} - ${convert100toTarget(persent2)} ${name === 'price' ? 'triệu' : 'm2'}`
+                [`${name}Number`]: arrMinMax,
+                [name]: `Từ ${convert100toTarget(min)}${(persent1 === persent2 && persent1 === 100) 
+                ? '' 
+                : ` - ${convert100toTarget(max)}`} ${name === 'price' ? 'triệu' : 'm²'} ${(persent1 === persent2 && persent1 === 100) ? '+' : ''}`
             }, {
-                [`${name}Arr`]: [persent1, persent2]
+                [`${name}Arr`]: [min, max]
             })
         }
     
@@ -97,7 +98,7 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                 e.stopPropagation()
                 setIsShowModal(true)
             }} 
-            className='w-2/5 bg-white rounded-md'
+            className='w-2/5 h-[500px] bg-white rounded-md relative'
             >
                 <div className='h-[45px] px-4 flex items-center border-b border-gray-100'>
                     <span className='hover:text-red-600 cursor-pointer' onClick={(e) => {
@@ -108,6 +109,17 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                     </span>
                 </div>
                 {(name === 'category' || name === 'province') && <div className='p-4 flex flex-col'>
+                    <span className='py-2 flex gap-2 items-center border-b border-gray-200'>
+                                <input 
+                                    type="radio" 
+                                    name={name}
+                                    id='default'
+                                    value={defaultText || ''}
+                                    checked={!queries[`${name}Code`] ? true : false}
+                                    onChange={(e) => handleSubmit(e, {[name]: defaultText, [`${name}Code`]: null})}
+                                />
+                                <label  htmlFor='default'>{defaultText}</label>
+                            </span>
                     {content?.map(item => {
                         return (
                             <span key={item.code} className='py-2 flex gap-2 items-center border-b border-gray-200'>
@@ -128,14 +140,14 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                     <div className='flex flex-col items-center justify-center relative'>
                         <div className='z-30 absolute top-[-48px] font-bold text-lg text-orange-600'>
                             {(persent1 === 100 && persent2 === 100) 
-                                ? `Trên ${convert100toTarget(persent1)} ${name === 'price' ? 'triệu' : 'm2'} +`
+                                ? `Trên ${convert100toTarget(persent1)} ${name === 'price' ? 'triệu' : 'm²'} +`
                                 : `Từ ${persent1 <= persent2 
                                     ? convert100toTarget(persent1) 
                                     : convert100toTarget(persent2)} - ${persent2 >= persent1 
                                         ? convert100toTarget(persent2) 
                                         : convert100toTarget(persent1)} ${name === 'price' 
                                             ? 'triệu' 
-                                            : 'm2'}`}
+                                            : 'm²'}`}
                         </div>
                         <div 
                             onClick={handleClickTrack} 
@@ -188,7 +200,7 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                                 handleClickTrack(e, 100)
                             }}
                             >
-                                {name === 'price' ? '15 triệu +' : name === 'area' ? 'Trên 90 m2' : ''}
+                                {name === 'price' ? '15 triệu +' : name === 'area' ? 'Trên 90 m²' : ''}
                             </span>
                         </div>
                         </div>
@@ -200,7 +212,7 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                                         <button 
                                         key={item.code}
                                         onClick={() => handleActive(item.code, item.value)}
-                                        className={`px-4 py-2 bg-gray-200 rounded-md cursor-pointer ${item.code === activeEl ? 'bg-blue-400 text-white' : ''}`}
+                                        className={`px-4 py-2 bg-gray-200 rounded-md cursor-pointer ${item.code === activeEl ? 'bg-blue-500 text-white' : ''}`}
                                         >
                                             {item.value}
                                         </button>
@@ -211,7 +223,7 @@ const Modal = ({ setIsShowModal, content, name, handleSubmit, queries, arrMinMax
                     </div>}
                     {(name === 'price' || name === 'area') && <button
                         type='button'
-                        className='w-full bg-[#FFA500] py-2 font-medium rounded-bl-md rounded-br-md'
+                        className='w-full absolute bottom-0 bg-[#FFA500] py-2 font-medium rounded-bl-md rounded-br-md'
                         onClick={handleBeforeSubmit}
                         >
                             ÁP DỤNG

@@ -38,7 +38,7 @@ const prices = [
     },
     {
         min: 15,
-        max: 999999,
+        max: 99999999999999999,
         value: 'Trên 15 triệu'
     }
     
@@ -48,32 +48,32 @@ const areas = [
     {
         min: 0,
         max: 20,
-        value: 'Dưới 20m'
+        value: 'Dưới 20 m²'
     },
     {
         min: 20,
         max: 30,
-        value: 'Từ 20m - 30m'
+        value: 'Từ 20 m² - 30 m²'
     },
     {
         min: 30,
         max: 50,
-        value: 'Từ 30m - 50m'
+        value: 'Từ 30 m² - 50 m²'
     },
     {
         min: 50,
         max: 70,
-        value: 'Từ 50m - 70m'
+        value: 'Từ 50 m² - 70 m²'
     },
     {
         min: 70,
         max: 90,
-        value: 'Từ 70m - 90m'
+        value: 'Từ 70 m² - 90 m²'
     },
     {
         min: 90,
-        max: 999999,
-        value: 'Trên 90m'
+        max: 99999999999999999,
+        value: 'Trên 90 m²'
     }
 ]
 

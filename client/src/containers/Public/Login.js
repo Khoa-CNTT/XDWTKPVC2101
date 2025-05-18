@@ -4,6 +4,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import * as actions from '../../store/actions'
 import { useDispatch, useSelector } from 'react-redux'
 import Swal from 'sweetalert2'
+import validate from '../../ultils/Common/validateFields'
 
 const Login = () => {
     const location = useLocation()
@@ -34,58 +35,19 @@ const Login = () => {
             phone: payload.phone,
             password: payload.password
         }
-        let invalids = validate(finalPayload)
+        let invalids = validate(finalPayload, setInvalidField)
         if(invalids === 0) isRegister ? dispatch(actions.register(payload)) : dispatch(actions.login(payload))
     }
 
-    const validate = (payload) => {
-        let invalids = 0
-        let fields = Object.entries(payload)
-        fields.forEach(item => {
-            if (item[1] === '') {
-                setInvalidField(prev => [...prev, {
-                    name: item[0],
-                    message: 'Bạn không được bỏ trống trường này.'
-                }])
-                invalids++
-            }
-        })
-        fields.forEach(item => {
-            switch (item[0]) {
-                case 'password':
-                    if(item[1].length < 6 ) {
-                        setInvalidField(prev => [...prev, {
-                            name: item[0],
-                            message: 'Mật khẩu phải có ít nhất 6 kí tự.'
-                        }])
-                        invalids++
-                    }
-                    break;
-                case 'phone':
-                    if(!+item[1]) {
-                        setInvalidField(prev => [...prev, {
-                            name: item[0],
-                            message: 'Số điện thoại không hợp lệ.'
-                        }])
-                        invalids++
-                    }
-                    break
-            
-                default:
-                    break;
-            }
-        })
-        return invalids
-    }
-
     return (
-        <div className='bg-white w-[600px] p-[30px] pb-[100px] rounded-md shadow-sm'>
+        <div className='w-full flex items-center justify-center'>
+            <div className='bg-white w-[600px] p-[30px] pb-[100px] rounded-md shadow-sm'>
             <h3 className='font-semibold text-2xl mb-3'>{isRegister ? 'Đăng ký tài khoản' : 'Đăng nhập'}</h3>
             <div className='w-full flex flex-col gap-5'>
                 {isRegister && <InputForm 
                 setInvalidField = {setInvalidField} 
                 invalidFields = {invalidFields} 
-                label={'HỌ TÊN'} 
+                label={'TÊN TÀI KHOẢN'} 
                 value={payload.name} 
                 setValue={setPayload} 
                 keyPayload={'name'} 
@@ -147,6 +109,7 @@ const Login = () => {
                     </small>
                 </>}
             </div>
+        </div>
         </div>
     )
 }

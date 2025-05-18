@@ -1,9 +1,12 @@
+import { data } from "react-router-dom";
 import actionTypes from "../actions/actionTypes";
 const initState = {
-    post: [],
+    posts: [],
     msg: '',
     count: 0,
-    newPosts: []
+    newPosts: [],
+    postOfCurrent: [],
+    dataEdit: null
 }
 
 const postReducer = (state = initState, action) => {
@@ -21,6 +24,22 @@ const postReducer = (state = initState, action) => {
                 ...state,
                 msg: action.msg || '',
                 newPosts: action.newPosts || []
+            }
+        case actionTypes.GET_POSTS_ADMIN:
+            return {
+                ...state,
+                msg: action.msg || '',
+                postOfCurrent: action.posts || []
+            }
+        case actionTypes.EDIT_DATA:
+            return {
+                ...state,
+                dataEdit: action.dataEdit || null
+            }
+        case actionTypes.RESET_DATA_EDIT:
+            return {
+                ...state,
+                dataEdit: null
             }
         default:
             return state;
